@@ -16,7 +16,7 @@ Minimum Hardware (VM) Requirements
 
 ### Download Installation Scripts, openstack-helm & openstack-helm-infra source
     $ sudo chown -R ubuntu: /opt
-    $ git clone https://github.com/sktelecom-oslab/vancouver-workshop.git \
+    $ git clone https://github.com/javarchoo/vancouver-workshop.git \
           /opt/vancouver-workshop
     $ git clone https://github.com/openstack/openstack-helm.git \
          /opt/openstack-helm
